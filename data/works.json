@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "butterman",
+    "title": "Butterman",
+    "year": 2026,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Public Art"
+    ],
+    "keywords": [],
+    "dimensions": "230 x 120 x 60 CM",
+    "materials": "fiberglass, steel plate, light and sound device, 2026",
+    "description": null,
+    "thumbnail": "/assets/butterman-cover-landscape.png",
+    "images": [
+      {
+        "src": "/assets/butterman-1.jpg",
+        "alt": "Butterman, view 1",
+        "width": 3996,
+        "height": 5328
+      },
+      {
+        "src": "/assets/butterman-2.jpg",
+        "alt": "Butterman, view 2",
+        "width": 2931,
+        "height": 3908
+      },
+      {
+        "src": "/assets/butterman-3.png",
+        "alt": "Butterman, view 3",
+        "width": 6000,
+        "height": 4000
+      },
+      {
+        "src": "/assets/butterman-4.jpg",
+        "alt": "Butterman, view 4",
+        "width": 1280,
+        "height": 1707
+      },
+      {
+        "src": "/assets/butterman-daylight-4282.jpg",
+        "alt": "Butterman, IMG_4282 2.JPG",
+        "width": 1920,
+        "height": 1280
+      },
+      {
+        "src": "/assets/butterman-detail-4448.jpg",
+        "alt": "Butterman, IMG_4448.JPG",
+        "width": 1440,
+        "height": 1920
+      },
+      {
+        "src": "/assets/butterman-evening-4615.jpg",
+        "alt": "Butterman, IMG_4615 2.jpg",
+        "width": 3979,
+        "height": 5305
+      }
+    ],
+    "video": null,
+    "featured": true,
+    "exhibitions": [
+      "Migratory Birds 300- Public Art Section, Aranya Resort, Hebei, China, June, 2026",
+      "Fantasy Carnival, Shanghai, China, April 30-May 5, 2026"
+    ],
+    "statement": "Inspired by interactive educational toys, the work explores how toys shape children’s cognition and behavior. Toys are not neutral objects; they enter children’s worlds through processes of production, design, and selection. \n\nSeven buttons on the work’s wings activate lights and sounds when pressed, translating a familiar mechanism of play into an embodied experience. This seemingly simple “press–response” structure cultivates a reliance on rules, efficiency, and immediate feedback through repeated interaction. Toys are more than objects of play; they shape how we play, how we respond, and ultimately, who we become within society.",
+    "section": "public-art",
+    "exhibitionDisplay": [
+      {
+        "title": "Migratory Birds 300- Public Art Section",
+        "details": "Aranya Resort, Hebei, China",
+        "date": "June, 2026"
+      },
+      {
+        "title": "Fantasy Carnival",
+        "details": "Shanghai, China",
+        "date": "April 30–May 5, 2026"
+      }
+    ]
+  },
+  {
+    "id": "shells-not-found",
+    "title": "ShellsNotFound",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Public Art"
+    ],
+    "keywords": [],
+    "dimensions": "150 x 300 x 120 CM",
+    "materials": "cast resin, 2025",
+    "description": null,
+    "thumbnail": "/assets/shells-not-found-cover-9195.jpg",
+    "images": [
+      {
+        "src": "/assets/shells-not-found-sequence-1.jpg",
+        "alt": "ShellsNotFound, view 1",
+        "width": 3000,
+        "height": 2000
+      },
+      {
+        "src": "/assets/shells-not-found-sequence-2.jpg",
+        "alt": "ShellsNotFound, view 2",
+        "width": 3116,
+        "height": 4154
+      },
+      {
+        "src": "/assets/shells-not-found-img_4778.jpg",
+        "alt": "ShellsNotFound, detail view 4778",
+        "width": 2001,
+        "height": 3000
+      },
+      {
+        "src": "/assets/shells-not-found-sequence-3.jpg",
+        "alt": "ShellsNotFound, view 3",
+        "width": 6240,
+        "height": 4160
+      },
+      {
+        "src": "/assets/shells-not-found-img_4776.jpg",
+        "alt": "ShellsNotFound, detail view 4776",
+        "width": 2001,
+        "height": 3000
+      },
+      {
+        "src": "/assets/shells-not-found-sequence-4.jpg",
+        "alt": "ShellsNotFound, view 4",
+        "width": 6240,
+        "height": 4160
+      },
+      {
+        "src": "/assets/shells-not-found-img_4775.jpg",
+        "alt": "ShellsNotFound, detail view 4775",
+        "width": 2001,
+        "height": 3000
+      },
+      {
+        "src": "/assets/shells-not-found-sequence-5.jpg",
+        "alt": "ShellsNotFound, view 5",
+        "width": 4160,
+        "height": 6240
+      },
+      {
+        "src": "/assets/shells-not-found-img_4777.jpg",
+        "alt": "ShellsNotFound, detail view 4777",
+        "width": 2001,
+        "height": 3000
+      },
+      {
+        "src": "/assets/shells-not-found-sequence-6.jpg",
+        "alt": "ShellsNotFound, view 6",
+        "width": 6240,
+        "height": 4160
+      },
+      {
+        "src": "/assets/shells-not-found-sequence-7.jpg",
+        "alt": "ShellsNotFound, view 7",
+        "width": 4160,
+        "height": 6240
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "Migratory Bird 300, Aranya, Qinhuangdao, China, 2025",
+      "Wan’erNao, Songzhuang Archive Museum, Beijing, China, October 15 - September 3, 2025"
+    ],
+    "statement": "In this work, a transparent sandcastle melting by the sea becomes a metaphor for the gradual disappearance of childhood. Set against a culture in which childhood is increasingly adultified while adults long for lost innocence, the work reflects on growth, loss, and the reconstruction of the self.",
+    "section": "public-art",
+    "exhibitionDisplay": [
+      {
+        "title": "Migratory Bird 300",
+        "details": "Aranya, Qinhuangdao, China",
+        "date": "2025"
+      },
+      {
+        "title": "Wan’erNao",
+        "details": "Songzhuang Archive Museum, Beijing, China",
+        "date": "October 15 - September 3, 2025"
+      }
+    ]
+  },
+  {
+    "id": "crt-animation",
+    "title": "📺",
+    "year": 2026,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Animation"
+    ],
+    "keywords": [],
+    "dimensions": null,
+    "materials": "digital animation on CRT tv, 2026",
+    "description": null,
+    "duration": "2min20s on loop",
+    "thumbnail": "/assets/tv-cover-matched.png",
+    "images": [],
+    "video": {
+      "src": "/assets/crt-animation/master.m3u8",
+      "type": "hls",
+      "poster": "/assets/crt-animation-poster.jpg"
+    },
+    "featured": false,
+    "source": "https://www.cindyexinyi.com/the-disappearance-of-childhood-2/project-one-f5w4d-z9nem-s3jda-x8w73-fs9yz",
+    "exhibitions": [
+      "Technically Sweet, RISD Tap Room, Rhode Island, United States, October 5, 2026."
+    ],
+    "videoSource": "https://video.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/c1218957-94d8-43c9-a004-f6c1f4949575/playlist.m3u8",
+    "originalThumbnail": "/assets/crt-animation-poster.jpg",
+    "showExhibited": true,
+    "showStatement": true,
+    "exhibitionRecords": [
+      {
+        "title": "Technically Sweet",
+        "venue": "RISD Tap Room",
+        "city": "Rhode Island",
+        "country": "United States",
+        "date": "October 5, 2026"
+      }
+    ],
+    "statement": "The animation examines how advertising, cartoons, and television shape children’s self-image and expectations of adulthood. The childhood dream of becoming a hero gives way to earning a living by impersonating one in Times Square. Juxtaposing heroic narratives with the labor of performance, the work considers how mass media packages aspirations into images to identify with, which individuals later perform for income. Childhood’s promises do not disappear; they are repriced within the economic realities of adulthood."
+  },
+  {
+    "id": "gnomes-animation",
+    "title": "GNOMES",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Animation"
+    ],
+    "keywords": [],
+    "dimensions": null,
+    "materials": "digital animation on DVD player, 2026",
+    "description": null,
+    "thumbnail": "/assets/gnomes-cover-matched.png",
+    "images": [],
+    "video": {
+      "src": "/assets/gnomes-animation.mov"
+    },
+    "featured": false,
+    "exhibitions": [
+      "Technically Sweet, RISD Tap Room, Rhode Island, United States, October 5, 2026."
+    ],
+    "statement": "Taking the garden gnome as its protagonist, the work explores the relationship between marginal identity, cultivation, and growth. The gnome moves between an elemental being associated with the underworld, a figure in fairy tales such as Snow White, and a commodified ornament placed in a garden. Across these shifting identities, an autonomous being becomes an object to be named, shaped, and positioned.\n\nThe garden becomes a space in which growth is deliberately organized: life is nurtured, but also pruned, classified, and disciplined. Through the gnome’s movement between myth, fairy tale, and commodity, the work asks how growth is shaped by external expectations, and how an individual might find possibilities for existence beyond an assigned place.",
+    "originalThumbnail": "/assets/gnomes-cover.jpg",
+    "duration": "1min58s on loop"
+  },
+  {
+    "id": "adulthood-overview",
+    "title": "Welcome to Adulthood, I hope you like _____",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "materials": "Mixed media, 2026",
+    "dimensions": "26 works; approx. 10 × 10 × 3 in. each; installation dimensions variable",
+    "description": null,
+    "thumbnail": "/assets/adulthood-slide-a-neutral.png",
+    "images": [
+      {
+        "src": "/assets/adulthood-overview.jpg",
+        "alt": "Welcome to Adulthood, I hope you like _____, series overview"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "coverSlides": [
+      "/assets/adulthood-slide-a-neutral.png",
+      "/assets/adulthood-slide-b-neutral.png",
+      "/assets/adulthood-slide-cc-neutral.png",
+      "/assets/adulthood-slide-d-neutral.png",
+      "/assets/adulthood-slide-e-neutral.png",
+      "/assets/adulthood-slide-f-neutral.png",
+      "/assets/adulthood-slide-g-neutral.png",
+      "/assets/adulthood-slide-h-neutral.png",
+      "/assets/adulthood-slide-i-extended.png",
+      "/assets/adulthood-slide-j-neutral.png",
+      "/assets/adulthood-slide-l-neutral.png",
+      "/assets/adulthood-slide-m-neutral.png",
+      "/assets/adulthood-slide-o-neutral.png",
+      "/assets/adulthood-slide-q-neutral.png",
+      "/assets/adulthood-slide-r-neutral.png",
+      "/assets/adulthood-slide-s-neutral.png",
+      "/assets/adulthood-slide-t-neutral.png",
+      "/assets/adulthood-slide-u-neutral.png",
+      "/assets/adulthood-slide-y-neutral.png"
+    ],
+    "link": "/work/?series=Welcome%20to%20Adulthood"
+  },
+  {
+    "id": "wordygnome",
+    "title": "WordyGnome",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Animation"
+    ],
+    "keywords": [],
+    "dimensions": null,
+    "materials": "Digital game with 32 flash cards, 2026",
+    "description": null,
+    "thumbnail": "/assets/wordygnome-8.jpg",
+    "images": [
+      {
+        "src": "/assets/wordygnome-8.jpg",
+        "alt": "WordyGnome, view 8"
+      },
+      {
+        "src": "/assets/wordygnome-1-fixed.jpg",
+        "alt": "WordyGnome, view 1"
+      },
+      {
+        "src": "/assets/wordygnome-2.mp4",
+        "alt": "WordyGnome, view 2",
+        "type": "video"
+      },
+      {
+        "src": "/assets/wordygnome-3-fixed.jpg",
+        "alt": "WordyGnome, view 3"
+      },
+      {
+        "src": "/assets/wordygnome-4.mp4",
+        "alt": "WordyGnome, view 4",
+        "type": "video"
+      },
+      {
+        "src": "/assets/wordygnome-5.mp4",
+        "alt": "WordyGnome, view 5",
+        "type": "video"
+      },
+      {
+        "src": "/assets/wordygnome-6-fixed.jpg",
+        "alt": "WordyGnome, view 6"
+      },
+      {
+        "src": "/assets/wordygnome-7.mp4",
+        "alt": "WordyGnome, view 7",
+        "type": "video"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This work grew out of a confusion I experienced while learning English as a child. The definitions I learned from textbooks often felt very different from the ways those same words were actually used in everyday life. A seemingly simple word could carry completely different implications, emotions, and judgments depending on its context.\n\nThe work explores the gap between denotation and connotation, and how we learn, understand, and use language. Language is never neutral. As culture and social contexts shift, words acquire new meanings. Rather than searching for the correct meaning of each word, this work focuses on the unstable distance between definition and use, and on what that distance can reveal about the culture in which language exists.",
+    "playUrl": "https://wordygnome.com"
+  },
+  {
+    "id": "hopesc0tch",
+    "title": "HopeSc0tch",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Sculpture and textile"
+    ],
+    "keywords": [],
+    "dimensions": "120 × 350 CM",
+    "materials": "Fabric, found children's clothes, beads, found toys, 2025",
+    "description": null,
+    "duration": null,
+    "thumbnail": "/assets/childhood-f1e576e2756a9c.jpg",
+    "images": [
+      {
+        "src": "/assets/childhood-f1e576e2756a9c.jpg",
+        "alt": "HopeSc0tch, view 1",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/ccb52525-14e4-4327-8faa-e8bde9dfa41d/nanobanana-edited-2026-08-01T09-18-34-021Z.jpg"
+      },
+      {
+        "src": "/assets/childhood-80929272be8738.jpg",
+        "alt": "HopeSc0tch, view 2",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/e44e6cde-9e63-40e5-9201-dd21a8976c5d/IMG_6215.JPG"
+      },
+      {
+        "src": "/assets/hopesc0tch-detail-wall-matched.png",
+        "alt": "HopeSc0tch, view 3",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/57c20e91-4caa-4faf-9b01-0a36eb660758/710ec9b56c25a16972870c50e82b66f5.jpg",
+        "originalSrc": "/assets/childhood-430eb6e6e959a7.jpg"
+      }
+    ],
+    "video": null,
+    "featured": true,
+    "source": "https://www.cindyexinyi.com/the-disappearance-of-childhood-2/project-one-f5w4d-z9nem-s3jda-x8w73-fs9yz-sjkwa-kt6e7",
+    "exhibitions": [
+      "Inherit with Love: Continuity of Time and Media Innovation, X Museum, Beijing, China, September 28 - January 11, 2026.",
+      "Folo by Time, Tree Art Museum, Beijing, China, August 15 - September 3, 2025.",
+      "Between Home & Elsewhere, YEOPEM Art Space, Chengdu, China, June 14 - July 5, 2025.",
+      "Boston Wide, Harvard 92 Seattle Gallery, Boston, United States, April 17 - 22, 2025."
+    ],
+    "exhibitionRecords": [
+      {
+        "title": "Inherit with Love: Continuity of Time and Media Innovation",
+        "venue": "X Museum",
+        "city": "Beijing",
+        "country": "China",
+        "date": "September 28 - January 11, 2026"
+      },
+      {
+        "title": "Folo by Time",
+        "venue": "Tree Art Museum",
+        "city": "Beijing",
+        "country": "China",
+        "date": "August 15 - September 3, 2025"
+      },
+      {
+        "title": "Between Home & Elsewhere",
+        "venue": "YEOPEM Art Space",
+        "city": "Chengdu",
+        "country": "China",
+        "date": "June 14 - July 5, 2025"
+      },
+      {
+        "title": "Boston Wide",
+        "venue": "Harvard 92 Seattle Gallery",
+        "city": "Boston",
+        "country": "United States",
+        "date": "April 17 - 22, 2025"
+      }
+    ],
+    "statement": "Through fabric and the form of hopscotch, the work explores childhood as a social construct. Rather than originating as a children’s game, hopscotch began as a military exercise designed to regulate soldiers’ bodies and movements. From children regarded as “miniature adults” in ancient Greece and Rome to the disciplining of bodies and behavior throughout contemporary childhood, the boundaries between childhood and adulthood are becoming increasingly blurred."
+  },
+  {
+    "id": "hopesc0tch-2",
+    "title": "HopeSc0tch",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Sculpture and textile"
+    ],
+    "keywords": [],
+    "dimensions": "120 × 350 CM",
+    "materials": "Fabric, found children's clothes, beads, found toys, 2025",
+    "description": null,
+    "duration": null,
+    "thumbnail": "/assets/hopesc0tch-2-cover-matched.png",
+    "images": [
+      {
+        "src": "/assets/hopesc0tch-2-cover-matched.png",
+        "alt": "HopeSc0tch, view 1",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/98287041-2a71-44aa-9b0b-90ff13cea632/IMG_7755.jpg",
+        "originalSrc": "/assets/childhood-9f1f698ce8239c.jpg"
+      },
+      {
+        "src": "/assets/childhood-80929272be8738.jpg",
+        "alt": "HopeSc0tch, view 2",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/e44e6cde-9e63-40e5-9201-dd21a8976c5d/IMG_6215.JPG"
+      },
+      {
+        "src": "/assets/childhood-04812811fc5f45.jpg",
+        "alt": "HopeSc0tch, view 3",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/07d5be46-f563-4946-990f-4adcfd23d6ad/1620eb55d30244c3aea857836dfe9ff2.jpg"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "source": "https://www.cindyexinyi.com/the-disappearance-of-childhood-2/project-one-f5w4d-z9nem-s3jda-x8w73-fs9yz-sjkwa-kt6e7-zf8ek",
+    "exhibitions": [
+      "Inherit with Love: Continuity of Time and Media Innovation, X Museum, Beijing, China, September 28 - January 11, 2026.",
+      "Folo by Time, Tree Art Museum, Beijing, China, August 15 - September 3, 2025.",
+      "Between Home & Elsewhere, YEOPEM Art Space, Chengdu, China, June 14 - July 5, 2025.",
+      "Boston Wide, Harvard 92 Seattle Gallery, Boston, United States, April 17 - 22, 2025."
+    ],
+    "originalThumbnail": "/assets/childhood-9f1f698ce8239c.jpg",
+    "thumbnailEdit": {
+      "method": "built-in imagegen",
+      "description": "Wall and floor matched to the first HopeSc0tch cover; original gallery images retained."
+    },
+    "exhibitionRecords": [
+      {
+        "title": "Inherit with Love: Continuity of Time and Media Innovation",
+        "venue": "X Museum",
+        "city": "Beijing",
+        "country": "China",
+        "date": "September 28 - January 11, 2026"
+      },
+      {
+        "title": "Folo by Time",
+        "venue": "Tree Art Museum",
+        "city": "Beijing",
+        "country": "China",
+        "date": "August 15 - September 3, 2025"
+      },
+      {
+        "title": "Between Home & Elsewhere",
+        "venue": "YEOPEM Art Space",
+        "city": "Chengdu",
+        "country": "China",
+        "date": "June 14 - July 5, 2025"
+      },
+      {
+        "title": "Boston Wide",
+        "venue": "Harvard 92 Seattle Gallery",
+        "city": "Boston",
+        "country": "United States",
+        "date": "April 17 - 22, 2025"
+      }
+    ],
+    "statement": "Through fabric and the form of hopscotch, the work explores childhood as a social construct. Rather than originating as a children’s game, hopscotch began as a military exercise designed to regulate soldiers’ bodies and movements. From children regarded as “miniature adults” in ancient Greece and Rome to the disciplining of bodies and behavior throughout contemporary childhood, the boundaries between childhood and adulthood are becoming increasingly blurred."
+  },
+  {
+    "id": "map",
+    "title": "🗺️",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Sculpture and textile"
+    ],
+    "keywords": [],
+    "dimensions": "68 x 168 x 25 CM",
+    "materials": "Fabric, found children's clothes, beads, found toys, wood, 2025",
+    "description": null,
+    "duration": null,
+    "thumbnail": "/assets/map-cover-brighter.png",
+    "images": [
+      {
+        "src": "/assets/childhood-19e35c2897ceaa.jpg",
+        "alt": "🗺️, view 1",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/9a8ed82e-a0fa-4330-bd29-07be3a0d4d66/RAN_5093+3.jpg"
+      },
+      {
+        "src": "/assets/childhood-1cb8230e62a57e.jpg",
+        "alt": "🗺️, view 2",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/2c4de7c5-3ef3-4839-b750-47fd46a50d49/RAN_5117.jpg"
+      },
+      {
+        "src": "/assets/childhood-2b3ba18f7bdc7c.jpg",
+        "alt": "🗺️, view 3",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/005b5ce9-331e-431f-8744-9293d4715cd9/RAN_5104.jpg"
+      },
+      {
+        "src": "/assets/childhood-c126f722a16e35.jpg",
+        "alt": "🗺️, view 4",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/688466a1-46f4-4d29-9d82-aaa7b68356a9/RAN_5120_%E5%89%AF%E6%9C%AC.jpg"
+      },
+      {
+        "src": "/assets/childhood-35d5813d096265.jpg",
+        "alt": "🗺️, view 5",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/0ae4221a-0ee8-4fa5-b11a-b89f5dd8bc03/RAN_5115.jpg"
+      },
+      {
+        "src": "/assets/childhood-3ded38e99f29ab.jpg",
+        "alt": "🗺️, view 6",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/f17a55b8-1671-45b8-b81d-f5a3c041ab8d/RAN_5091+2.jpg"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "source": "https://www.cindyexinyi.com/the-disappearance-of-childhood-2/project-one-f5w4d-z9nem-s3jda-x8w73-fs9yz-sjkwa-kt6e7-zf8ek-w3nr9",
+    "exhibitions": [],
+    "statement": "The work uses secondhand children’s clothing, fabric, toys, and beads within a wooden frame, creating a compressed structure in which soft materials are forced to form boundaries. Rather than being predetermined, these boundaries emerge through density, exclusion, and the occupation of space. Western jigsaw puzzles originated as dissected maps, carrying colonial visions of the world and forms of geopolitical instruction rooted in violence. Through repeated play from an early age, children learn to assemble the world as discrete, bounded territories, shaping how they come to understand its geography and political order. Drawing on this imagery, the work shifts attention to how boundaries are produced, rather than existing naturally, they are learned, internalized, and normalized through compression, division, and exclusion.",
+    "originalThumbnail": "/assets/childhood-19e35c2897ceaa.jpg"
+  },
+  {
+    "id": "map-2",
+    "title": "🗺️",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Sculpture and textile"
+    ],
+    "keywords": [],
+    "dimensions": "40 x 30 x 5 CM",
+    "materials": "Fabric, found children's clothes, beads, found toys, wood, 2025",
+    "description": null,
+    "duration": null,
+    "thumbnail": "/assets/map-2-cover-brighter.png",
+    "images": [
+      {
+        "src": "/assets/map-2-cover.jpg",
+        "alt": "🗺️, view 1"
+      },
+      {
+        "src": "/assets/map-2-installation.jpg",
+        "alt": "🗺️, view 2"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "The work uses secondhand children’s clothing, fabric, toys, and beads within a wooden frame, creating a compressed structure in which soft materials are forced to form boundaries. Rather than being predetermined, these boundaries emerge through density, exclusion, and the occupation of space. Western jigsaw puzzles originated as dissected maps, carrying colonial visions of the world and forms of geopolitical instruction rooted in violence. Through repeated play from an early age, children learn to assemble the world as discrete, bounded territories, shaping how they come to understand its geography and political order. Drawing on this imagery, the work shifts attention to how boundaries are produced, rather than existing naturally, they are learned, internalized, and normalized through compression, division, and exclusion.",
+    "originalThumbnail": "/assets/map-2-cover.jpg"
+  },
+  {
+    "id": "secrets-of-garden",
+    "title": "Secrets of garden",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "25 x 50 CM",
+    "materials": "intaglio print, 2026",
+    "description": null,
+    "thumbnail": "/assets/secrets-of-garden-cover.jpg",
+    "images": [
+      {
+        "src": "/assets/secrets-of-garden-print.jpg",
+        "alt": "Secrets of garden, view 2"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "State of Becoming, Today Art Museum, Beijing, China, August 1 - 16"
+    ],
+    "statement": null
+  },
+  {
+    "id": "water-them-gently",
+    "title": "Water them gently",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "15 x 20 CM",
+    "materials": "intaglio print, 2026",
+    "description": null,
+    "thumbnail": "/assets/water-them-gently-cover.jpg",
+    "images": [
+      {
+        "src": "/assets/water-them-gently-print.jpg",
+        "alt": "Water them gently"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "State of Becoming, Today Art Museum, Beijing, China, August 1 - 16"
+    ],
+    "statement": null
+  },
+  {
+    "id": "connect-the-dots-print-1",
+    "title": "Dot by Dot#1",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": null,
+    "materials": "Intaglio print, 2026",
+    "description": null,
+    "thumbnail": "/assets/connect-the-dots-print-1.jpg",
+    "images": [
+      {
+        "src": "/assets/dot-by-dot-1-print-detail.jpg",
+        "alt": "Dot by Dot#1"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "State of Becoming, Today Art Museum, Beijing, China, August 1 - 16"
+    ],
+    "statement": null
+  },
+  {
+    "id": "connect-the-dots-print-2",
+    "title": "Dot by Dot#2",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": null,
+    "materials": "Intaglio print, 2026",
+    "description": null,
+    "thumbnail": "/assets/connect-the-dots-print-2.jpg",
+    "images": [
+      {
+        "src": "/assets/dot-by-dot-2-print-detail.jpg",
+        "alt": "Dot by Dot#2"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "State of Becoming, Today Art Museum, Beijing, China, August 1 - 16"
+    ],
+    "statement": null
+  },
+  {
+    "id": "welcome-to-adulthood-addiction",
+    "title": "A",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "23 x 24 x 4 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-addiction.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-addiction.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Addiction"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 1,
+    "fullTitle": "Welcome to Adulthood, I hope you like Addiction"
+  },
+  {
+    "id": "welcome-to-adulthood-ibuprofen",
+    "title": "B",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "36 x 26 x 6 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-ibuprofen.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-ibuprofen.jpg",
+        "alt": "Welcome to Adulthood, I hope you like ibuprofen"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 2,
+    "fullTitle": "Welcome to Adulthood, I hope you like ibuprofen"
+  },
+  {
+    "id": "welcome-to-adulthood-existential-crisis",
+    "title": "C",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "30 x 30 x 4 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-existential-crisis.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-existential-crisis.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Existential Crisis"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 3,
+    "fullTitle": "Welcome to Adulthood, I hope you like Existential Crisis"
+  },
+  {
+    "id": "welcome-to-adulthood-disco",
+    "title": "D",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "38 x 32 x 7 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-disco.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-disco.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Disco"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 4,
+    "fullTitle": "Welcome to Adulthood, I hope you like Disco"
+  },
+  {
+    "id": "welcome-to-adulthood-erotic",
+    "title": "E",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "33 x 19 x 3 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-erotic.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-erotic.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Erotic"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 5,
+    "fullTitle": "Welcome to Adulthood, I hope you like Erotic"
+  },
+  {
+    "id": "welcome-to-adulthood-fetish",
+    "title": "F",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "28 x 26 x 3 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-fetish.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-fetish.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Fetish"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 6,
+    "fullTitle": "Welcome to Adulthood, I hope you like Fetish"
+  },
+  {
+    "id": "welcome-to-adulthood-gamble",
+    "title": "G",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "29 x 26 x 5 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-gamble.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-gamble.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Gamble"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 7,
+    "fullTitle": "Welcome to Adulthood, I hope you like Gamble"
+  },
+  {
+    "id": "welcome-to-adulthood-heartbreak",
+    "title": "H",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "10 x 15 x 3 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-heartbreak.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-heartbreak.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Heartbreak"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 8,
+    "fullTitle": "Welcome to Adulthood, I hope you like Heartbreak"
+  },
+  {
+    "id": "welcome-to-adulthood-insomnia",
+    "title": "I",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "37 x 30 x 7 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-insomnia.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-insomnia.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Insomnia"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 9,
+    "fullTitle": "Welcome to Adulthood, I hope you like Insomnia"
+  },
+  {
+    "id": "welcome-to-adulthood-jealousy",
+    "title": "J",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "17 x 26 x 3 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-jealousy.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-jealousy.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Jealousy"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 10,
+    "fullTitle": "Welcome to Adulthood, I hope you like Jealousy"
+  },
+  {
+    "id": "welcome-to-adulthood-laziness",
+    "title": "L",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "40 x 30 x 14 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-laziness.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-laziness.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Laziness"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 11,
+    "fullTitle": "Welcome to Adulthood, I hope you like Laziness"
+  },
+  {
+    "id": "welcome-to-adulthood-marriage",
+    "title": "M",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "35 x 21 x 5 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-marriage.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-marriage.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Marriage"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 12,
+    "fullTitle": "Welcome to Adulthood, I hope you like Marriage"
+  },
+  {
+    "id": "welcome-to-adulthood-office",
+    "title": "O",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "27 x 20 x 20 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-office.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-office.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Office"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 13,
+    "fullTitle": "Welcome to Adulthood, I hope you like Office"
+  },
+  {
+    "id": "welcome-to-adulthood-quarantine",
+    "title": "Q",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "21 x 9 x 3 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-quarantine.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-quarantine.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Quarantine"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 14,
+    "fullTitle": "Welcome to Adulthood, I hope you like Quarantine"
+  },
+  {
+    "id": "welcome-to-adulthood-retirement",
+    "title": "R",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "18 x 15 x 3 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-retirement.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-retirement.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Retirement"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 15,
+    "fullTitle": "Welcome to Adulthood, I hope you like Retirement"
+  },
+  {
+    "id": "welcome-to-adulthood-smocking",
+    "title": "S",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "33 x 27 x 6 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-smocking.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-smocking.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Smocking"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 16,
+    "fullTitle": "Welcome to Adulthood, I hope you like Smocking"
+  },
+  {
+    "id": "welcome-to-adulthood-tired",
+    "title": "T",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "10 x 15 x 4 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-tired.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-tired.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Tired"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 17,
+    "fullTitle": "Welcome to Adulthood, I hope you like Tired"
+  },
+  {
+    "id": "welcome-to-adulthood-unemployment",
+    "title": "U",
+    "year": 2026,
+    "series": [
+      "Welcome to Adulthood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "23 x 24 x 4 CM",
+    "materials": "Acrylic on secondhand toys, 2026",
+    "description": null,
+    "thumbnail": "/assets/welcome-to-adulthood-unemployment.jpg",
+    "images": [
+      {
+        "src": "/assets/welcome-to-adulthood-unemployment.jpg",
+        "alt": "Welcome to Adulthood, I hope you like Unemployment"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": "This series examines educational toys as technologies of childhood. By transforming “A is for Apple” into “A is for Addiction,” the work shifts a familiar learning device into a metaphor for the invisible systems through which discipline, desire, and consumer culture are introduced at an early age. Childhood is approached not as a natural state, but as a socially constructed concept.",
+    "sourcePdf": "/Users/xinyiye/Desktop/作品原图/Welcome to Adulthood，I hope you like_____/叶心怡-Selected works- Welcome to Adulthood, I hope you like _____.pdf",
+    "sourcePage": 18,
+    "fullTitle": "Welcome to Adulthood, I hope you like Unemployment"
+  },
+  {
+    "id": "double-headed-eggman-long-toed-star",
+    "title": "🥚🌟",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Sculpture and textile"
+    ],
+    "keywords": [],
+    "dimensions": "50 x 41 x 21 CM",
+    "materials": "Acrylic painted on clay, gemstones, 2025",
+    "description": null,
+    "duration": null,
+    "thumbnail": "/assets/childhood-9bc75c8193b4d7.png",
+    "images": [
+      {
+        "src": "/assets/childhood-9bc75c8193b4d7.png",
+        "alt": "🥚🌟, view 1",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/244fdf10-c78e-4637-88f9-504b8f85a795/IMG_6225.png"
+      },
+      {
+        "src": "/assets/egg-star-view-2-matched.png",
+        "alt": "🥚🌟, view 2",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/8b5d3c2b-25d7-48cb-ad2a-535c2c846afa/IMG_6219.JPG",
+        "originalSrc": "/assets/childhood-74c3f2baba818d.jpg"
+      },
+      {
+        "src": "/assets/egg-star-view-3-matched.png",
+        "alt": "🥚🌟, view 3",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/c7a9f4ac-fca4-4db0-9af0-1e24f1c70ba7/IMG_6220.JPG",
+        "originalSrc": "/assets/childhood-08b177075488c7.jpg"
+      },
+      {
+        "src": "/assets/egg-star-view-4-matched.png",
+        "alt": "🥚🌟, view 4",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/32d4e937-657a-481c-bdec-9f1e672b2de7/IMG_6222.JPG",
+        "originalSrc": "/assets/childhood-d75cee0158f254.jpg"
+      },
+      {
+        "src": "/assets/egg-star-view-5-matched.png",
+        "alt": "🥚🌟, view 5",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/0732270a-4387-4eb3-8a82-0a7103d027e0/IMG_6221.JPG",
+        "originalSrc": "/assets/childhood-c80f232eb6cf22.jpg"
+      }
+    ],
+    "video": null,
+    "featured": true,
+    "source": "https://www.cindyexinyi.com/the-disappearance-of-childhood-2/project-one-f5w4d-z9nem-s3jda-x8w73-fs9yz-sjkwa-kt6e7-zf8ek-kgt99",
+    "exhibitions": [
+      "This is the World (I Made it for You), Red Eye Gallery, Providence, Rhode Island, USA, March 12 - 30, 2026."
+    ],
+    "exhibitionRecords": [
+      {
+        "title": "This is the World (I Made it for You)",
+        "venue": "Red Eye Gallery",
+        "city": "Providence",
+        "region": "Rhode Island",
+        "country": "USA",
+        "date": "March 12 - 30, 2026"
+      }
+    ],
+    "statement": "A Study of Double-Headed Eggman and Long-Toed Star"
+  },
+  {
+    "id": "book",
+    "title": "📖",
+    "year": 2024,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": null,
+    "materials": null,
+    "description": null,
+    "duration": null,
+    "thumbnail": "/assets/book-cover-new.png",
+    "images": [
+      {
+        "src": "/assets/childhood-915f72e08f4857.jpg",
+        "alt": "📖, view 1",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/5b03a20b-fa54-4b43-a5a9-87544d7626d7/DSCF8467+2.jpg"
+      },
+      {
+        "src": "/assets/childhood-1fad8e2dab1be5.jpg",
+        "alt": "📖, view 2",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/cfc9bf4f-4645-4911-b454-d6ec1a1c7a32/DSCF8479+2.jpg"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "source": "https://www.cindyexinyi.com/the-disappearance-of-childhood-2/project-one-f5w4d-z9nem-s3jda-x8w73-fs9yz-sjkwa-kt6e7-zf8ek-8m9cy",
+    "exhibitions": [
+      "Folo by Time, Tree Art Museum, Beijing, China, August 15 - September 3, 2025."
+    ],
+    "metadataStatus": "needs-confirmation",
+    "sourceMetadata": {
+      "title": "HopeSc0tch",
+      "materials": "Fabric, found children's clothes, beads, found toys",
+      "dimensions": "120 × 350 CM",
+      "note": "Source page repeats HopeSc0tch metadata. User confirmed this is an independent book work; title, materials, and dimensions need confirmation."
+    },
+    "exhibitionRecords": [
+      {
+        "title": "Folo by Time",
+        "venue": "Tree Art Museum",
+        "city": "Beijing",
+        "country": "China",
+        "date": "August 15 - September 3, 2025"
+      }
+    ]
+  },
+  {
+    "id": "fl1p",
+    "title": "Fl1p",
+    "year": 2024,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "30 x 122 x 3 CM",
+    "materials": "Acrylic painted on plywood, 2024",
+    "description": null,
+    "duration": null,
+    "thumbnail": "/assets/fl1p-cover-matched.png",
+    "images": [
+      {
+        "src": "/assets/fl1p-cover-matched.png",
+        "alt": "Fl1p, view 1",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/1cb7786e-69e0-4249-8db8-6d170f06323b/Flip.jpg",
+        "originalSrc": "/assets/childhood-1dd5a5c52d122b.jpg"
+      }
+    ],
+    "video": null,
+    "featured": true,
+    "source": "https://www.cindyexinyi.com/the-disappearance-of-childhood-2/project-one-f5w4d-z9nem-s3jda-x8w73-fs9yz-hz6zg",
+    "exhibitions": [
+      "Folo by Time, Tree Art Museum, Beijing, China, August 15 - September 3, 2025.",
+      "Between Home & Elsewhere, YEOPEM Art Space, Chengdu, China, June 14 - July 5, 2025."
+    ],
+    "exhibitionRecords": [
+      {
+        "title": "Folo by Time",
+        "venue": "Tree Art Museum",
+        "city": "Beijing",
+        "country": "China",
+        "date": "August 15 - September 3, 2025"
+      },
+      {
+        "title": "Between Home & Elsewhere",
+        "venue": "YEOPEM Art Space",
+        "city": "Chengdu",
+        "country": "China",
+        "date": "June 14 - July 5, 2025"
+      }
+    ],
+    "originalThumbnail": "/assets/childhood-1dd5a5c52d122b.jpg",
+    "hideStatement": true
+  },
+  {
+    "id": "gym",
+    "title": "Gym",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "80 x 60 x 3 CM",
+    "materials": "Acrylic painted on plywood, 2025",
+    "description": null,
+    "duration": null,
+    "thumbnail": "/assets/gym-cover-matched.png",
+    "images": [
+      {
+        "src": "/assets/gym-cover-matched.png",
+        "alt": "Gym, view 1",
+        "source": "https://images.squarespace-cdn.com/content/v1/6a6c40e22e82802a746bd34c/ae0fb91c-c77e-4ba9-bce7-f79a2d051ead/%F0%9F%90%9F%E4%BD%9C%E5%93%81%E5%8E%9F%E5%9B%BE.jpg",
+        "originalSrc": "/assets/childhood-1eba7739535e99.jpg"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "source": "https://www.cindyexinyi.com/the-disappearance-of-childhood-2/project-one-f5w4d-z9nem-s3jda-x8w73-fs9yz-hz6zg-6dsbb",
+    "exhibitions": [],
+    "originalThumbnail": "/assets/childhood-1eba7739535e99.jpg",
+    "hideStatement": true
+  },
+  {
+    "id": "souvenir",
+    "title": "Souvenir",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "20 x 30 CM",
+    "materials": "Mono print with oil-based crayons, 2025",
+    "description": null,
+    "thumbnail": "/assets/souvenir-framed-cover.jpg",
+    "images": [
+      {
+        "src": "/assets/souvenir.jpg",
+        "alt": "Souvenir"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "HuiXiang, B131 Gallery, BAC Art Community, Hangzhou, China"
+    ],
+    "statement": null
+  },
+  {
+    "id": "bowling-i-iv",
+    "title": "Bowling I-IV",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "40 x 60 CM",
+    "materials": "Mono print with oil-based crayons, 2025",
+    "description": null,
+    "thumbnail": "/assets/bowling-i-iv-framed-cover.jpg",
+    "images": [
+      {
+        "src": "/assets/bowling-i-iv.jpg",
+        "alt": "Bowling I-IV"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "HuiXiang, B131 Gallery, BAC Art Community, Hangzhou, China"
+    ],
+    "statement": null
+  },
+  {
+    "id": "kickass",
+    "title": "Kickass",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "40 x 60 CM",
+    "materials": "Mono print with oil-based crayons, 2025",
+    "description": null,
+    "thumbnail": "/assets/kickass-framed-cover.png",
+    "images": [
+      {
+        "src": "/assets/kickass.jpg",
+        "alt": "Kickass"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "HuiXiang, B131 Gallery, BAC Art Community, Hangzhou, China"
+    ],
+    "statement": null
+  },
+  {
+    "id": "hide-n-seek",
+    "title": "Hide n Seek",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "40 x 60 CM",
+    "materials": "Mono print with oil-based crayons, 2025",
+    "description": null,
+    "thumbnail": "/assets/hide-n-seek-framed-cover.png",
+    "images": [
+      {
+        "src": "/assets/hide-n-seek-original.jpg",
+        "alt": "Hide n Seek"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": null
+  },
+  {
+    "id": "a-study-of-little-guys",
+    "title": "A Study of Little Guys",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "20 x 30 CM",
+    "materials": "Mono print with oil-based crayons, 2025",
+    "description": null,
+    "thumbnail": "/assets/little-guys-framed-cover.jpg",
+    "images": [
+      {
+        "src": "/assets/little-guys-print.jpg",
+        "alt": "A Study of Little Guys"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": null
+  },
+  {
+    "id": "drawing-3",
+    "title": "#3",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "20 x 30 CM",
+    "materials": "Mono print, 2025",
+    "description": null,
+    "thumbnail": "/assets/drawing-3-framed-soft-white.png",
+    "images": [
+      {
+        "src": "/assets/drawing-3-original.jpg",
+        "alt": "#3"
+      },
+      {
+        "src": "/assets/drawing-3-print-second.jpg",
+        "alt": "#3, print"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": null
+  },
+  {
+    "id": "drawing-8",
+    "title": "#8",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "20 x 30 CM",
+    "materials": "Mono print, 2025",
+    "description": null,
+    "thumbnail": "/assets/drawing-8-framed-soft-white.png",
+    "images": [
+      {
+        "src": "/assets/drawing-8-original.jpg",
+        "alt": "#8"
+      },
+      {
+        "src": "/assets/drawing-8-print-second.jpg",
+        "alt": "#8, print"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": null
+  },
+  {
+    "id": "drawing-9",
+    "title": "#9",
+    "year": 2025,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Prints and Drawings"
+    ],
+    "keywords": [],
+    "dimensions": "20 x 30 CM",
+    "materials": "Mono print, 2025",
+    "description": null,
+    "thumbnail": "/assets/drawing-9-framed-soft-white.png",
+    "images": [
+      {
+        "src": "/assets/drawing-9-original.jpg",
+        "alt": "#9"
+      },
+      {
+        "src": "/assets/drawing-9-print-second.jpg",
+        "alt": "#9, print"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": null
+  },
+  {
+    "id": "playground-painting",
+    "title": "Sl1de",
+    "year": 2024,
+    "series": [
+      "The Disappearance of Childhood"
+    ],
+    "medium": [
+      "Painting"
+    ],
+    "keywords": [],
+    "dimensions": "183 x 183 CM",
+    "materials": "Acrylic on canvas, 2024",
+    "description": null,
+    "thumbnail": "/assets/sl1de-cover-neutral.png",
+    "images": [
+      {
+        "src": "/assets/sl1de-full-clean-wall.png",
+        "alt": "Sl1de, full view"
+      },
+      {
+        "src": "/assets/sl1de-cover-neutral.png",
+        "alt": "Sl1de, detail"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [],
+    "statement": null,
+    "sourceUrl": "https://www.instagram.com/p/DDft3vIpyrz/",
+    "sourceDimensions": "72 x 72 inches"
+  },
+  {
+    "id": "236",
+    "title": "#236",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Ceramics"
+    ],
+    "keywords": [
+      "ceramic",
+      "glazed ceramic"
+    ],
+    "dimensions": "61 x 36 x 36 CM",
+    "materials": "Glazed ceramic, 2026",
+    "description": "",
+    "thumbnail": "/assets/236-cover.png",
+    "images": [
+      {
+        "src": "/assets/236-cover.png",
+        "alt": "#236, view 1"
+      },
+      {
+        "src": "/assets/236-view-2.jpg",
+        "alt": "#236, view 2"
+      },
+      {
+        "src": "/assets/236-video.mov",
+        "type": "video",
+        "alt": "#236, video"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "Pengci'er, Modern and Contemporary Art Auction Center, Beijing, China"
+    ],
+    "statement": ""
+  },
+  {
+    "id": "gnome-party",
+    "title": "Counting",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Ceramics"
+    ],
+    "keywords": [
+      "porcelain",
+      "tile",
+      "gnome"
+    ],
+    "dimensions": "20 x 20 CM",
+    "materials": "Painting on porcelain tile, 2026",
+    "description": "",
+    "thumbnail": "/assets/gnome-party-cover.jpg",
+    "images": [
+      {
+        "src": "/assets/gnome-party-cover.jpg",
+        "alt": "Counting, view 1"
+      },
+      {
+        "src": "/assets/gnome-party-view-2.jpg",
+        "alt": "Counting, view 2"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "Pengci'er, Modern and Contemporary Art Auction Center, Beijing, China"
+    ],
+    "statement": ""
+  },
+  {
+    "id": "gnome-party-ceramic",
+    "title": "Gnome Party",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Ceramics"
+    ],
+    "keywords": [
+      "porcelain",
+      "tile",
+      "gnome"
+    ],
+    "dimensions": "20 x 20 CM",
+    "materials": "Painting on porcelain tile, 2026",
+    "description": "",
+    "thumbnail": "/assets/gnome-party-ceramic-cover.jpg",
+    "images": [
+      {
+        "src": "/assets/gnome-party-ceramic-cover.jpg",
+        "alt": "Gnome Party"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "Pengci'er, Modern and Contemporary Art Auction Center, Beijing, China"
+    ],
+    "statement": ""
+  },
+  {
+    "id": "maze",
+    "title": "MAZE",
+    "year": 2026,
+    "series": [
+      "Gardening"
+    ],
+    "medium": [
+      "Ceramics"
+    ],
+    "keywords": [
+      "porcelain",
+      "colored engobe"
+    ],
+    "dimensions": "20 x 40 x 20 CM",
+    "materials": "Porcelain, colored engobe, 2026",
+    "description": "",
+    "thumbnail": "/assets/maze-cover.jpg",
+    "images": [
+      {
+        "src": "/assets/maze-detail.jpg",
+        "alt": "MAZE"
+      }
+    ],
+    "video": null,
+    "featured": false,
+    "exhibitions": [
+      "Pengci'er, Modern and Contemporary Art Auction Center, Beijing, China"
+    ],
+    "statement": ""
+  }
+]
