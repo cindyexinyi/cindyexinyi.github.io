@@ -177,3 +177,5 @@ main.bracelet-home{padding:0;min-height:calc(100svh - var(--header-height,110px)
 @media(max-width:800px){.about-page{max-width:640px;margin:12px auto 50px}.about-layout{grid-template-columns:1fr;gap:38px}.about-page> .about-bracelet.bracelet-stage{width:min(100%,330px);margin-bottom:32px}.about-drawing{width:110px;margin-top:30px}}
 
 .about-page .about-bio .about-signature{margin:0 0 32px}.about-page .about-signature img{width:180px;height:auto}
+
+.about-page .about-studio .about-pet a{color:inherit;font:inherit;letter-spacing:inherit}.about-page .about-studio .about-pet{margin-bottom:24px}
