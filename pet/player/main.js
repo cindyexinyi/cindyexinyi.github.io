@@ -112,12 +112,28 @@ mat.onBeforeCompile=shader=>{
 };
 mat.needsUpdate=true;
 video.loop=false;
-function startFilm(){
- if(playing.value && !video.paused){video.pause();return;}
- if(!playing.value){video.currentTime=0;playing.value=1;}
- video.play().catch(()=>{video.muted=true;video.play().catch(()=>{});});
+let filmRequested=false,frameRequest=null;
+function revealFilm(){
+ if(!filmRequested||video.paused||video.ended||video.readyState<2)return;
+ vt.needsUpdate=true;
+ playing.value=1;
 }
-video.addEventListener('ended',()=>{playing.value=0;video.pause();video.currentTime=0;});
+function waitForFilmFrame(){
+ if(video.requestVideoFrameCallback){
+  if(frameRequest!==null)video.cancelVideoFrameCallback(frameRequest);
+  frameRequest=video.requestVideoFrameCallback(()=>{frameRequest=null;revealFilm();});
+ }else if(video.readyState>=2){requestAnimationFrame(()=>requestAnimationFrame(revealFilm));}
+}
+function startFilm(){
+ if(filmRequested&&!video.paused){filmRequested=false;video.pause();return;}
+ if(video.ended)video.currentTime=0;
+ filmRequested=true;
+ waitForFilmFrame();
+ video.play().catch(()=>{video.muted=true;return video.play();}).catch(()=>{filmRequested=false;});
+}
+video.addEventListener('playing',waitForFilmFrame);
+video.addEventListener('loadeddata',()=>{if(!video.requestVideoFrameCallback)waitForFilmFrame();});
+video.addEventListener('ended',()=>{filmRequested=false;playing.value=0;video.pause();video.currentTime=0;});
 const capMat=new T.MeshPhysicalMaterial({color:0xd88eaf,roughness:.32,metalness:0,clearcoat:.55,clearcoatRoughness:.22});
 const rimMat=new T.MeshPhysicalMaterial({color:0xb96389,roughness:.35,metalness:0,clearcoat:.4});
 const gapMat=new T.MeshStandardMaterial({color:0x843d5a,roughness:.6});
