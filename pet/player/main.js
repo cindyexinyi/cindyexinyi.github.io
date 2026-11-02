@@ -128,6 +128,19 @@ const buttons=[];for(const [x,y] of centers){const holder=new T.Group();holder.p
  const rim=new T.Mesh(new T.TorusGeometry(.0037,.0003,24,96),rimMat);rim.position.z=.0003;holder.add(rim);
  const cap=new T.Mesh(capGeo,capMat);cap.position.z=.00025;cap.userData.rest=.00025;cap.userData.depth=0;holder.add(cap);buttons.push(cap);
 }
+// A soft plastic switch click, created locally on each physical press.
+let buttonAudio;
+function playButtonClick(){
+ const AudioContext=window.AudioContext||window.webkitAudioContext;if(!AudioContext)return;
+ try{
+ buttonAudio??=new AudioContext();const ctx=buttonAudio;
+ const sound=()=>{const now=ctx.currentTime,buffer=ctx.createBuffer(1,Math.ceil(ctx.sampleRate*.035),ctx.sampleRate),data=buffer.getChannelData(0);
+ for(let i=0;i<data.length;i++)data[i]=(Math.random()*2-1)*Math.exp(-i/(ctx.sampleRate*.006));
+ const noise=ctx.createBufferSource(),filter=ctx.createBiquadFilter(),gain=ctx.createGain();noise.buffer=buffer;filter.type='bandpass';filter.frequency.value=1500;filter.Q.value=.7;gain.gain.setValueAtTime(.22,now);gain.gain.exponentialRampToValueAtTime(.001,now+.035);noise.connect(filter).connect(gain).connect(ctx.destination);noise.start(now);
+ const body=ctx.createOscillator(),bodyGain=ctx.createGain();body.type='sine';body.frequency.setValueAtTime(280,now);body.frequency.exponentialRampToValueAtTime(110,now+.025);bodyGain.gain.setValueAtTime(.075,now);bodyGain.gain.exponentialRampToValueAtTime(.001,now+.03);body.connect(bodyGain).connect(ctx.destination);body.start(now);body.stop(now+.035);};
+ if(ctx.state==='suspended')ctx.resume().then(sound).catch(()=>{});else sound();
+ }catch{}
+}
 let zoom=1;
 function updateZoom(){camera.position.z=(innerWidth<600?.49:.30)/zoom;camera.updateProjectionMatrix();}
 renderer.domElement.addEventListener('wheel',e=>{e.preventDefault();zoom=T.MathUtils.clamp(zoom*Math.exp(-e.deltaY*.001),.65,2.5);updateZoom();},{passive:false});
@@ -137,7 +150,7 @@ renderer.domElement.addEventListener('touchmove',e=>{if(e.touches.length!==2)ret
 renderer.domElement.addEventListener('touchend',()=>{pinchDistance=0;});
 const ray=new T.Raycaster(),mouse=new T.Vector2();let down=null,moved=false,activeButton=null;
 function buttonAt(e){mouse.set(e.clientX/innerWidth*2-1,1-e.clientY/innerHeight*2);ray.setFromCamera(mouse,camera);return ray.intersectObjects(buttons)[0]?.object;}
-renderer.domElement.addEventListener('pointerdown',e=>{down={x:e.clientX,y:e.clientY,startX:e.clientX,startY:e.clientY};moved=false;activeButton=buttonAt(e)||null;renderer.domElement.setPointerCapture(e.pointerId);});
+renderer.domElement.addEventListener('pointerdown',e=>{down={x:e.clientX,y:e.clientY,startX:e.clientX,startY:e.clientY};moved=false;activeButton=buttonAt(e)||null;if(activeButton)playButtonClick();renderer.domElement.setPointerCapture(e.pointerId);});
 renderer.domElement.addEventListener('pointermove',e=>{if(!down){renderer.domElement.style.cursor=buttonAt(e)?'pointer':'grab';return;}const dx=e.clientX-down.x,dy=e.clientY-down.y;if(Math.hypot(e.clientX-down.startX,e.clientY-down.startY)>5)moved=true;if(moved){activeButton=null;pivot.rotation.y+=dx*.008;pivot.rotation.x=Math.max(-1.4,Math.min(1.4,pivot.rotation.x+dy*.008));}down.x=e.clientX;down.y=e.clientY;});
 renderer.domElement.addEventListener('pointerup',e=>{if(!moved&&activeButton)startFilm();activeButton=null;down=null;});
 renderer.domElement.addEventListener('pointercancel',()=>{activeButton=null;down=null;});
