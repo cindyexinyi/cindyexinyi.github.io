@@ -1,0 +1,17 @@
+const modal=document.querySelector('dialog'),question=document.querySelector('#question'),content=document.querySelector('#content');
+const greetings=['What brings you here?','What is it you seek?','How may I help you?','What brings you before me?'];
+const replies={
+love:["Your future partner is going to be ugly. Fortunately, your taste is also questionable.","True love is coming.","Your standards are finally paying off. Keep ignoring that text.","Someone will love you exactly as you are.","A beautiful stranger will enter your life. Keep your banking details private."],
+health:["Stretch a little. You are a person, not a frozen shrimp.","You may live a long healthy life. You will die at age 126.","Give yourself a little more sleep tonight. Everything does not have to be finished today.","Stay away from fire on March 6 next year. You’ll thank me later.","You’re a deeply responsible person, always looking after those around you. Remember to care for your own feelings and give yourself room to rest, too."],
+money:["A small fortune awaits you. Very small.","You will find money in an old pocket.","Wealth is within reach.","Your portfolio will impress someone. You will be rewarded.","You are closer to success than you think."]};
+let lastGreeting=-1,speechTimer,typing=false,fullText='',phase='idle',openedAt=0,replyLines=[],replyIndex=0;
+function randomIndex(length){const values=new Uint32Array(1),limit=Math.floor(4294967296/length)*length;do{crypto.getRandomValues(values)}while(values[0]>=limit);return values[0]%length;}
+function finishSpeech(){clearInterval(speechTimer);question.textContent=fullText;typing=false;window.dispatchEvent(new CustomEvent('oracle-speaking',{detail:false}));}
+function speak(text){clearInterval(speechTimer);fullText=text;question.hidden=false;question.textContent='';typing=true;let i=0;window.dispatchEvent(new CustomEvent('oracle-speaking',{detail:true}));speechTimer=setInterval(()=>{question.textContent=text.slice(0,++i);if(i>=text.length)finishSpeech();},48);}
+modal.addEventListener('close',()=>{clearInterval(speechTimer);typing=false;phase='idle';window.dispatchEvent(new CustomEvent('oracle-speaking',{detail:false}));});
+function showChoices(){phase='choices';question.hidden=true;content.innerHTML='<div class="choices">'+['love','health','money'].map(x=>`<button class="choice" data-wish="${x}">${x.toUpperCase()}</button>`).join('')+'</div>';content.querySelectorAll('[data-wish]').forEach(b=>b.onclick=e=>{e.stopPropagation();reveal(b.dataset.wish);});}
+function begin(){let n;do{n=randomIndex(greetings.length)}while(n===lastGreeting);lastGreeting=n;phase='greeting';openedAt=performance.now();content.replaceChildren();speak(greetings[n]);if(!modal.open)modal.show();}
+function reveal(topic){phase='reply';content.replaceChildren();const reply=replies[topic][randomIndex(replies[topic].length)];replyLines=reply.match(/[^.!?]+[.!?]+|[^.!?]+$/g).map(line=>line.trim());replyIndex=0;speak(replyLines[replyIndex]);}
+document.querySelector('.gnome').onclick=()=>{if(!modal.open)begin();};
+document.addEventListener('click',e=>{if(!modal.open||performance.now()-openedAt<200||e.target.closest('[data-wish]'))return;e.preventDefault();e.stopImmediatePropagation();if(typing){finishSpeech();return;}if(phase==='greeting')showChoices();else if(phase==='reply'){if(++replyIndex<replyLines.length)speak(replyLines[replyIndex]);else modal.close();}},true);
+modal.addEventListener('cancel',e=>e.preventDefault());

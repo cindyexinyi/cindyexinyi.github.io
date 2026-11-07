@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Sans:wght@400;500&display=swap');
+:root{color-scheme:dark;font-family:'DM Sans',Arial,sans-serif;background:#130500;color:#eed8b5}*{box-sizing:border-box}body{margin:0}.stage{height:100svh;min-height:560px;position:relative;overflow:hidden;display:grid;place-items:center}.scene{position:absolute;width:max(100vw,141.56svh);height:max(70.64vw,100svh)}.scene>img{width:100%;height:100%;display:block}.gnome{position:absolute;left:38.5%;top:28%;width:23.5%;height:55%;border:0;background:transparent;cursor:pointer;outline-offset:-8px;border-radius:48%}.gnome span{position:absolute;bottom:6%;left:50%;transform:translateX(-50%);white-space:nowrap;font-size:10px;text-transform:uppercase;letter-spacing:.22em;background:#2d0c06b8;padding:10px 14px;border:1px solid #dfa46866;border-radius:30px;opacity:0;transition:opacity .3s}.gnome:hover span,.gnome:focus-visible span{opacity:1}.vignette{position:absolute;inset:0;pointer-events:none;box-shadow:inset 0 0 140px 40px #12030066}.invitation{position:absolute;bottom:23px;margin:0;text-align:center;font-family:'Cormorant Garamond',Georgia,serif;font-size:23px;text-shadow:0 2px 12px #000}.invitation span{display:block;font:9px 'DM Sans',Arial;letter-spacing:.2em;text-transform:uppercase;margin-top:8px;color:#d6aa7c}dialog{width:min(460px,calc(100vw - 32px));padding:44px 36px 26px;background:linear-gradient(145deg,#35110df7,#1c0907fc);color:#eed8b5;border:1px solid #ac713f88;border-radius:3px;box-shadow:0 25px 100px #000b;max-height:calc(100svh - 32px)}dialog::backdrop{background:#13030177;backdrop-filter:blur(3px)}.eyebrow{font-size:9px;letter-spacing:.25em;color:#c49261}h1{font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;font-size:36px;line-height:1.12;margin:19px 0 27px}.close{position:absolute;right:13px;top:9px;border:0;background:none;color:#b78d68;font-size:25px;cursor:pointer}.choices{display:grid;gap:10px}button.choice,.submit,.again{font:12px 'DM Sans',Arial;letter-spacing:.09em;color:#efd7b6;background:#74322522;border:1px solid #a66b4155;padding:16px 18px;cursor:pointer;text-align:left;transition:background .2s,border-color .2s}button.choice:hover,.submit:hover,.again:hover{background:#9b4f2d33;border-color:#c48d59}.choice span{float:right;color:#c49261}.privacy{font-size:9px;color:#a17b60;margin:24px 0 0}.birthday label{font-size:11px;color:#c49c78;display:block;margin-bottom:10px}.birthday input{width:100%;padding:14px;background:#180706;color:#eed8b5;border:1px solid #9f674b88;font:16px Arial;border-radius:0}.submit{width:100%;margin-top:16px;text-align:center}.reading p{font:20px/1.5 'Cormorant Garamond',Georgia,serif;margin:0 0 13px}.reading-meta{font-size:9px;letter-spacing:.15em;color:#bd916b;text-transform:uppercase;margin-bottom:22px}.again{width:100%;text-align:center;margin-top:14px}.error{color:#f3ad8d;font-size:12px}.thinking{font:23px 'Cormorant Garamond',Georgia;opacity:.7}@media(prefers-reduced-motion:no-preference){dialog[open]{animation:appear .3s ease-out}@keyframes appear{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}}@media(max-width:600px){.scene{transform:translateY(-3%)}dialog{padding:38px 27px 24px}h1{font-size:32px}.invitation{bottom:30px}}
+.scene canvas{display:block;width:100%;height:100%;cursor:grab}.scene canvas:active{cursor:grabbing}.loading{position:absolute;top:28px;left:0;right:0;text-align:center;color:#dfbd89;font:13px sans-serif;letter-spacing:.08em;pointer-events:none}.access-oracle{position:absolute!important;left:24px!important;top:24px!important;width:auto!important;height:auto!important;padding:10px 14px!important;opacity:0;pointer-events:none}.access-oracle:focus-visible{opacity:1;pointer-events:auto}.vignette{pointer-events:none}.invitation{pointer-events:none}
+
+#world{inset:0;width:100%;height:100%}
+
+:root,body,.stage{background:#000}.vignette{box-shadow:none}
+
+.draw-result{position:fixed;left:50%;bottom:100px;transform:translateX(-50%);padding:18px 30px;background:#24100de8;border:1px solid #a57747;color:#f3d49f;text-align:center;z-index:5;box-shadow:0 8px 30px #0008}.draw-result[hidden]{display:none}.draw-result strong{display:block;font:30px serif;letter-spacing:.18em}.draw-result button{margin-top:12px;padding:6px 12px;border:0;border-bottom:1px solid #ac8659;background:transparent;color:#d9b98b;cursor:pointer;font:12px sans-serif}
+
+.enlarged-stick{position:fixed;left:50%;bottom:150px;transform:translateX(-50%);width:min(760px,88vw);height:auto;z-index:6;cursor:pointer;filter:drop-shadow(0 8px 12px #0008)}.enlarged-stick[hidden]{display:none}
+
+/* In-scene conversation bar, rather than a modal overlay. */
+body:has(dialog[open]) .invitation{opacity:0}
+dialog{position:fixed;inset:auto 0 28px;margin:0 auto;width:min(920px,calc(100vw - 40px));max-height:42svh;overflow:auto;padding:24px 32px 20px;background:linear-gradient(135deg,#24100df5,#100908f5);border:1px solid #b48b58;border-radius:2px;box-shadow:0 8px 30px #0008;z-index:10}
+dialog .eyebrow{display:block;font-size:11px;letter-spacing:.18em;color:#cda874}
+dialog h1{font:500 25px/1.45 Georgia,serif;margin:12px 35px 18px 0;min-height:38px}
+dialog .choices{display:flex;gap:14px;flex-wrap:wrap}dialog button.choice{flex:1;min-width:130px;padding:10px 14px;background:transparent;border:1px solid #96754c55;font-size:14px;letter-spacing:.04em}dialog .privacy{margin:12px 0 0;font-size:9px}dialog .birthday{display:flex;gap:12px;align-items:center;flex-wrap:wrap}dialog .birthday label,dialog .error{display:none}dialog .birthday input{width:210px;padding:9px}dialog .submit{width:auto;margin:0;padding:12px}dialog .again{width:auto;margin:0;padding:9px 16px}dialog .close{right:17px;top:13px}
+@media(max-width:600px){dialog{bottom:14px;padding:18px 20px;max-height:48svh}dialog h1{font-size:20px}dialog .choices{gap:7px}dialog button.choice{min-width:80px;font-size:12px}}
+
+/* Unframed character dialogue with translucent choices. */
+dialog{background:transparent;border:0;box-shadow:none;padding:20px 26px;color:#f3dfbc;overflow:visible}
+dialog .eyebrow,dialog .privacy{display:none}
+dialog h1{font:500 25px/1.45 Georgia,serif;text-shadow:0 2px 8px #000,0 0 24px #000;margin-top:0}
+dialog h1::before{content:"GNOME: ";font:600 15px 'DM Sans',Arial,sans-serif;letter-spacing:.08em;color:#d9b781}
+dialog button.choice{background:rgba(32,19,14,.48);backdrop-filter:blur(6px);border:1px solid #d3b48966;color:#f3dfbc}
+dialog button.choice:hover{background:rgba(88,54,33,.65);border-color:#dfbc83}
+dialog .close{color:#ddc49c;text-shadow:0 1px 5px #000}
+
+/* Quiet, scene-matched response options. */
+dialog .choices{gap:10px}
+dialog button.choice,dialog .again,dialog .submit{font:500 17px/1.3 Georgia,serif;letter-spacing:.015em;color:#e4ccaa;background:rgba(39,20,13,.58);border:1px solid rgba(184,140,86,.25);border-radius:2px;box-shadow:inset 0 1px 0 rgba(240,207,156,.04);padding:12px 18px;backdrop-filter:blur(3px)}
+dialog button.choice:hover,dialog .again:hover,dialog .submit:hover{background:rgba(72,37,22,.72);border-color:rgba(194,151,94,.5)}
+dialog .choice span{color:#a88358;font-size:14px}dialog h1{margin-right:0}
+
+dialog h1[hidden]{display:none}dialog button.choice{text-align:center;letter-spacing:.12em}
+
+/* Minimal centered dialogue. */
+dialog{inset:50% auto auto 50%;transform:translate(-50%,-50%);margin:0;width:min(620px,calc(100vw - 48px));max-height:70svh;padding:0;text-align:center}
+dialog[open]{animation:none}
+dialog h1{font:400 18px/1.7 'DM Sans',Arial,sans-serif;max-width:560px;margin:0 auto;min-height:0;color:#f0e4d2;text-align:center;text-wrap:pretty;text-shadow:0 1px 5px #000,0 0 18px #000}
+dialog h1::before{font:500 12px/1.7 'DM Sans',Arial,sans-serif;letter-spacing:.08em;color:#d5c4ac}
+dialog .choices{justify-content:center;gap:12px;flex-wrap:wrap}
+dialog button.choice{flex:0 1 150px;min-width:110px;font:400 12px/1.4 'DM Sans',Arial,sans-serif;letter-spacing:.12em;padding:13px 20px;border:1px solid rgba(230,215,191,.22);border-radius:0;background:rgba(22,15,12,.5);box-shadow:none;color:#e7dbca;backdrop-filter:blur(3px)}
+dialog button.choice:hover{background:rgba(57,37,26,.65);border-color:rgba(230,215,191,.5)}
+@media(max-width:600px){dialog{bottom:auto;padding:0}dialog h1{font-size:16px}dialog button.choice{font-size:11px;min-width:85px;padding:12px}}
+
+/* Bottom placement, horizontally centered. */
+dialog{inset:auto 0 38px;margin:0 auto;transform:none}
+@media(max-width:600px){dialog{inset:auto 0 26px}}
+
+/* Restore the understated serif lettering at a readable scale. */
+dialog h1{font:400 20px/1.6 Georgia,serif;max-width:560px}
+dialog h1::before{font:500 12px/1.6 Georgia,serif;letter-spacing:.06em}
+dialog button.choice{font-family:Georgia,serif;font-size:14px}
+@media(max-width:600px){dialog h1{font-size:18px}dialog button.choice{font-size:13px}}
