@@ -54,3 +54,6 @@ dialog h1{font:400 20px/1.6 Georgia,serif;max-width:560px}
 dialog h1::before{font:500 12px/1.6 Georgia,serif;letter-spacing:.06em}
 dialog button.choice{font-family:Georgia,serif;font-size:14px}
 @media(max-width:600px){dialog h1{font-size:18px}dialog button.choice{font-size:13px}}
+
+/* The dialogue container receives focus when opened; only controls need a focus ring. */
+dialog:focus,dialog:focus-visible{outline:none}
